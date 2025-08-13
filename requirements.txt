@@ -1,0 +1,5 @@
+# requirements.txt
+# Lists the Python packages needed for the application.
+
+Flask
+gunicorn
